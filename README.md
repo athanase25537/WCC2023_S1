@@ -1,3 +1,3 @@
 # WCC2023-S1
 
-Lien : https://gowcc2023-s1.netlify.app/
+Lien : https://calm-hamster-a52e11.netlify.app
